@@ -18,7 +18,7 @@ A post-processor to customize Visual Studio project files of Unity project. Diff
 
 - You can add more platforms in `_Platforms` array.
 - `Custom` and `Clean` config means with or without custom defines added in Scripting Define Symbols of Player Settings.
-- Compile errors on can be auto detected by batch building VS solution in any CI system, such as Jenkins.
+- Compile errors can be auto detected by batch building VS solution in any CI system, such as Jenkins.
 
 ## Example
 
